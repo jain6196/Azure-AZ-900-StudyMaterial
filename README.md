@@ -1,7 +1,9 @@
 # Azure-AZ-900-StudyMaterial
 
 The aim of the repository to help others for clearing AZ-900 Certification by Microsoft.
-![image](https://user-images.githubusercontent.com/32647371/203953519-c4759b1f-f2d3-4638-908a-41183525184b.png)
+
+![image](https://user-images.githubusercontent.com/32647371/203953817-5afb8ef4-8620-4672-a09b-97fb4c334573.png)
+
 
 There are few Udemy Courses and test papers links mentioned that can be used for the preparation.
 
